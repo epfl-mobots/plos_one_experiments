@@ -1,3 +1,24 @@
+# Reference 
+
+This data-set has a DOI: [![DOI](https://zenodo.org/badge/180315988.svg)](https://zenodo.org/badge/latestdoi/180315988)
+
+Also, if you are using this repository, then consider citing the manuscript that introduced it:
+
+```
+@article{papaspyros2019bidirectional,
+  title={Bidirectional interactions facilitate the integration of a robot into a shoal of zebrafish Danio rerio},
+  author={Papaspyros, Vaios and Bonnet, Frank and Collignon, Bertrand and Mondada, Francesco},
+  journal={PloS one},
+  volume={14},
+  number={8},
+  pages={e0220559},
+  year={2019},
+  publisher={Public Library of Science San Francisco, CA USA}
+}
+```
+
+# About the data-set
+
 Data associated with a model are listed in different directories indicates by the respective model name. The directories are named as follows: 
 
     - fish_only                    -> fish-only experiments
